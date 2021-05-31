@@ -1,0 +1,22 @@
+.message{
+    background-color: rgb(194, 190, 190);
+    width: 30%;
+    padding: 10px;
+    margin: 0px -23px;
+    margin-bottom: 0px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: small;
+}
+
+.ti{
+    background-color: rgb(194, 190, 190);
+    width: 30px;
+    padding: 7px;
+    margin: 17px -23px;
+    margin-top: 1px;
+    border: 2px solid black;
+    border-radius: 6px;
+    font-size: x-small;
+ } 
+
