@@ -1,6 +1,6 @@
 const mongoose=require('mongoose');
 
-mongoose.connect('mongodb+srv://My-proj:vLdrF9ZcEHqeSaG@myproj.bqul5.mongodb.net/chats?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://My-proj:password@myproj.bqul5.mongodb.net/chats?retryWrites=true&w=majority',{
     useNewUrlParser:true,
     useUnifiedTopology:true,
     useCreateIndex:true
